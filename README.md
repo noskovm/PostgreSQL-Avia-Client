@@ -4,15 +4,14 @@
 
 Файл sign.py и файл sign.ui отвечает за мозги и вид страницы подключения базы данных
 
-![image-20230121183726051](C:\Users\maks-\AppData\Roaming\Typora\typora-user-images\image-20230121183726051.png)
+![image](https://user-images.githubusercontent.com/90210205/213874806-b7ae09be-bd60-4fcf-9e61-41ec18b52d19.png)
 
 Файл interface.py главная страница клиента, встречающая окном, где можно ввести произвольный SQL запрос, либо выбрать шаблон из кнопок сверху
 
-![image-20230121184127308](C:\Users\maks-\AppData\Roaming\Typora\typora-user-images\image-20230121184127308.png)
+![image](https://user-images.githubusercontent.com/90210205/213874876-7a19a4e5-b597-4477-b682-1b2748e46207.png)
 
 Также клиент предоставляет функцию просмотра отдельных таблиц базы данных
 
-![image-20230121184211041](C:\Users\maks-\AppData\Roaming\Typora\typora-user-images\image-20230121184211041.png)
+![image](https://user-images.githubusercontent.com/90210205/213874894-878279f9-f50f-4b3f-8a03-c0fc7a8b6d6e.png)
 
-Где присутствуют кнопки сохранения изменений ![image-20230121184325011](C:\Users\maks-\AppData\Roaming\Typora\typora-user-images\image-20230121184325011.png), обновления таблицы ![image-20230121184338720](C:\Users\maks-\AppData\Roaming\Typora\typora-user-images\image-20230121184338720.png), выгрузка таблицы в CSV формат ![image-20230121184347874](C:\Users\maks-\AppData\Roaming\Typora\typora-user-images\image-20230121184347874.png), операция вставки строки ![image-20230121184356661](C:\Users\maks-\AppData\Roaming\Typora\typora-user-images\image-20230121184356661.png)
-
+Где присутствуют кнопки сохранения изменений, обновления таблицы , выгрузка таблицы в CSV формат , операция вставки строки
